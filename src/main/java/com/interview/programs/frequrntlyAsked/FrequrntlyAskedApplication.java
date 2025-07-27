@@ -1,6 +1,6 @@
 package com.interview.programs.frequrntlyAsked;
 
-import com.interview.programs.frequrntlyAsked.String.ReverseString;
+import com.interview.programs.frequrntlyAsked.StringBased.ReverseString;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.interview.programs.frequrntlyAsked.String;
+package com.interview.programs.frequrntlyAsked.StringBased;
 
 import org.springframework.stereotype.Service;
 
@@ -53,7 +53,7 @@ public class RemoveDuplicates {
                 .mapToObj(c -> (char) c)
                 .filter(seen::add)  // only pass if not seen before
                 .map(String::valueOf)
-                .collect(Collectors.joining());
+                  .collect(Collectors.joining());
     }
 
     public static void main(String[] args) {

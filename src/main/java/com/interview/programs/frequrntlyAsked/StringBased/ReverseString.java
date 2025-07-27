@@ -1,4 +1,4 @@
-package com.interview.programs.frequrntlyAsked.String;
+package com.interview.programs.frequrntlyAsked.StringBased;
 
 import org.springframework.stereotype.Service;
 
